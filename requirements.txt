@@ -1,0 +1,6 @@
+pandas
+numpy
+spacy
+pillow
+sentence_transformers
+Scikit-learn
